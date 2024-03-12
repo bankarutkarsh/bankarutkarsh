@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="156" src="https://bizbergthemes.com/wp-content/uploads/2024/01/eynw44nd-1000x750.png"  />
+<img align="right" height="165" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 
 ###
 
