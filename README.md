@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Utkarsh Bankar<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Mern Stack Development<br>💞️ I’m looking for an Entry level Job Opportunity<br>💻 Check out my work at - https://sundown-ivory.vercel.app/ , https://zomato-react-gamma.vercel.app<br>📫 Reach me at utkarshbankar07@gmail.com</h2>
+<h2 align="left">👋 Hi, I’m Utkarsh Bankar<br>👀 I’m looking for an Entry level Job Opportunity<br>🌱 I’m currently learning Mern Stack Development<br>💞️ I’m interested in FullStack Development<br>💻 Check out my work at - https://sundown-ivory.vercel.app/ , https://zomato-react-gamma.vercel.app<br>📫 Reach me at utkarshbankar07@gmail.com</h2>
 
 ###
 
